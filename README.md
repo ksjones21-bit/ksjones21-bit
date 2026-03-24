@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Kima 👋
 
-<!--
-**ksjones21-bit/ksjones21-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance professional transitioning into data-driven FP&A and strategic finance.
 
-Here are some ideas to get you started:
+I specialize in transforming financial data into actionable insights through forecasting, variance analysis, and scenario modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Do
+- Budget vs Actual & Variance Analysis
+- Financial Forecasting & Scenario Modeling
+- Data Analysis using Python (Pandas, Matplotlib)
+- Translating financial data into business decisions
+
+---
+
+## 📊 Featured Projects
+
+### 📌 Program-Level Budget vs Forecast Analysis (FP&A Simulation)
+Simulated mid-year nonprofit financial review using Python to identify variances and forecast year-end spending.
+👉 [View Project](https://github.com/ksjones21-bit/program-budget-forecast-analysis)
+
+---
+
+### 📌 Apple Stock Forecast & Scenario Analysis
+Modeled stock price scenarios using trend and seasonal forecasting techniques.
+👉 [View Project](https://github.com/ksjones21-bit/Apple)
+
+---
+
+### 📌 Healthcare Cost Drivers Analysis
+Analyzed hospital billing data to identify key cost drivers and financial patterns.
+👉 [View Project](https://github.com/ksjones21-bit/healthcare-cost-analysis)
+
+---
+
+### 📌 Chicago Budget Priorities Analysis
+Explored public survey data to identify city spending priorities and policy insights.
+👉 [View Project](https://github.com/ksjones21-bit/chicago-budget-priorities)
+
+---
+
+## 🧠 Currently Building
+- Advanced forecasting models
+- Financial storytelling through dashboards
+- End-to-end FP&A workflows in Python
+
+---
+
+## 📫 Let's Connect
+Open to opportunities in FP&A, finance business partnering, and strategic finance roles.
