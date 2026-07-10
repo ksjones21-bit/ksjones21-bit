@@ -1,16 +1,16 @@
-# Hi, I'm Kima 👋
+# Hi, I'm Yahkima 👋
 
-Senior Financial Analyst specializing in FP&A, healthcare finance, revenue analytics, and financial modeling. I build data-driven solutions using Python, SQL, Power BI, and Excel to improve forecasting, reporting, and operational decision-making.
+Senior Financial Analyst with expertise in FP&A, healthcare finance, revenue analytics, and financial modeling.
 
 ---
 
 ## 🔍 What I Do
-Financial Planning & Analysis (FP&A)
-Financial Modeling & Forecasting
-Revenue Analytics
-SQL & Python Data Analysis
-Power BI Dashboards
-Executive Reporting
+• Financial Planning & Analysis (FP&A)
+• Financial Modeling & Forecasting
+• Revenue Analytics
+• SQL & Python Data Analysis
+• Power BI Dashboards
+• Executive Reporting
 
 ---
 
@@ -41,11 +41,11 @@ Explored public survey data to identify city spending priorities and policy insi
 ---
 
 ## 🧠 Currently Expanding
-Healthcare Revenue Analytics
-Revenue Cycle Reporting (CareLogic)
-SQL
-Power BI
-Financial Process Automation
+• Healthcare Revenue Analytics
+• Revenue Cycle Reporting (CareLogic)
+• SQL
+• Power BI
+• Financial Process Automation
 
 ---
 
