@@ -1,16 +1,16 @@
 # Hi, I'm Kima 👋
 
-Finance professional transitioning into data-driven FP&A and strategic finance.
-
-I specialize in transforming financial data into actionable insights through forecasting, variance analysis, and scenario modeling.
+Senior Financial Analyst specializing in FP&A, healthcare finance, revenue analytics, and financial modeling. I build data-driven solutions using Python, SQL, Power BI, and Excel to improve forecasting, reporting, and operational decision-making.
 
 ---
 
 ## 🔍 What I Do
-- Budget vs Actual & Variance Analysis
-- Financial Forecasting & Scenario Modeling
-- Data Analysis using Python (Pandas, Matplotlib)
-- Translating financial data into business decisions
+Financial Planning & Analysis (FP&A)
+Financial Modeling & Forecasting
+Revenue Analytics
+SQL & Python Data Analysis
+Power BI Dashboards
+Executive Reporting
 
 ---
 
@@ -40,12 +40,14 @@ Explored public survey data to identify city spending priorities and policy insi
 
 ---
 
-## 🧠 Currently Building
-- Advanced forecasting models
-- Financial storytelling through dashboards
-- End-to-end FP&A workflows in Python
+## 🧠 Currently Expanding
+Healthcare Revenue Analytics
+Revenue Cycle Reporting (CareLogic)
+SQL
+Power BI
+Financial Process Automation
 
 ---
 
 ## 📫 Let's Connect
-Open to opportunities in FP&A, finance business partnering, and strategic finance roles.
+Open to opportunities in Strategic Finance, Healthcare Finance, Revenue Analytics, FP&A, and Financial Systems.
