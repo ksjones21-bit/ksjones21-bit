@@ -1,53 +1,42 @@
-# Hi, I'm Yahkima 👋
+# Hi, I’m Kima 👋
 
-Senior Financial Analyst with expertise in FP&A, healthcare finance, revenue analytics, and financial modeling.
+I’m a finance professional focused on improving how financial data, reporting systems and business processes work together.
 
----
+My experience spans nonprofit healthcare finance, budgeting, financial reporting and collaboration with IT to improve reporting and system workflows. I lead finance reporting development in Oracle NSPB and translate business needs into clearer reports, processes and documentation.
 
-## 🔍 What I Do
-• Financial Planning & Analysis (FP&A)
-• Financial Modeling & Forecasting
-• Revenue Analytics
-• SQL & Python Data Analysis
-• Power BI Dashboards
-• Executive Reporting
+This portfolio combines my finance background with my growing focus on **Finance Transformation, Financial Systems and Business Analysis**.
 
----
+## What I Bring
 
-## 📊 Featured Projects
+- **Finance knowledge:** budgeting, forecasting, variance analysis and management reporting
+- **Process improvement:** investigating issues, documenting workflows and identifying opportunities for change
+- **Business and technology collaboration:** translating finance needs into reporting requirements and working with IT on solutions
+- **Data analysis:** using Excel, Power Query, SQL and Python to explore business questions and communicate findings
 
-### 📌 Program-Level Budget vs Forecast Analysis (FP&A Simulation)
-Simulated mid-year nonprofit financial review using Python to identify variances and forecast year-end spending.
-👉 [View Project](https://github.com/ksjones21-bit/program-budget-forecast-analysis)
+## Featured Project
 
----
+### [Purchase-to-Pay Process Analysis & Transformation](https://github.com/ksjones21-bit/purchase-to-pay-process-transformation)
 
-### 📌 Apple Stock Forecast & Scenario Analysis
-Modeled stock price scenarios using trend and seasonal forecasting techniques.
-👉 [View Project](https://github.com/ksjones21-bit/Apple)
+An independent case study using a public purchase-to-pay event log to examine invoice receipt-to-clearing patterns and develop an exploratory logistic regression model.
 
----
+The project connects analysis to proposed business requirements, exception-review workflows, UAT scenarios and an implementation pilot. It also documents data limitations and distinguishes longer clearing intervals from confirmed overdue payments.
 
-### 📌 Healthcare Cost Drivers Analysis
-Analyzed hospital billing data to identify key cost drivers and financial patterns.
-👉 [View Project](https://github.com/ksjones21-bit/healthcare-cost-analysis)
+**Demonstrates:** Python · Statistical Modeling · Process Analysis · Business Requirements · UAT Planning · Implementation Planning
 
----
+## Additional Finance Projects
 
-### 📌 Chicago Budget Priorities Analysis
-Explored public survey data to identify city spending priorities and policy insights.
-👉 [View Project](https://github.com/ksjones21-bit/chicago-budget-priorities)
+### [Healthcare Revenue Cycle Analytics](https://github.com/ksjones21-bit/healthcare-revenue-cycle-analytics)
 
----
+Analysis of healthcare revenue-cycle data supporting reconciliation and financial investigation.
 
-## 🧠 Currently Expanding
-• Healthcare Revenue Analytics
-• Revenue Cycle Reporting (CareLogic)
-• SQL
-• Power BI
-• Financial Process Automation
+### [Healthcare Cost Drivers](https://github.com/ksjones21-bit/healthcare-cost-drivers)
 
----
+Exploration of cost patterns and financial drivers to support operational discussions.
 
-## 📫 Let's Connect
-Open to opportunities in Strategic Finance, Healthcare Finance, Revenue Analytics, FP&A, and Financial Systems.
+## Systems & Tools
+
+Oracle NSPB / Essbase · NetSuite · SAP ERP · Excel · Power Query · Power Pivot · Power BI · SQL · Python · CareLogic
+
+## Professional Focus
+
+I’m interested in opportunities where Finance, operations, data and technology work together to improve reporting, strengthen processes and implement practical solutions.
