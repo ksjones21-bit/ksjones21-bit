@@ -1,51 +1,59 @@
-# Hi, I’m Yahkima 👋
+# Hi, I'm Yahkima 👋
 
-I’m a finance professional with an MBA and experience in nonprofit healthcare, budgeting, financial reporting, and collaboration with IT. My focus is improving how financial data, reporting systems, and business processes work together.
+### Business Process Improvement | Finance Transformation | Business Systems
 
-In my current role, I lead finance reporting development in Oracle NSPB and work across Finance and technology to improve reporting and system workflows.
+I'm a finance and operations professional with an MBA in Finance and an academic background in Operations Management. My interests center on improving how organizations operate through better processes, enterprise systems, and cross-functional collaboration.
 
-This portfolio combines my professional finance experience with independent case studies in **Finance Transformation, Financial Systems, and Business Analysis**.
+My professional experience spans nonprofit healthcare, education, manufacturing, and commercial analytics, with a focus on financial operations, reporting processes, systems optimization, and operational problem-solving.
+
+I'm particularly interested in understanding how businesses work, identifying inefficiencies, and translating complex operational challenges into practical, sustainable improvements.
 
 ## What I Bring
 
-- **Finance expertise:** Budgeting, forecasting, variance analysis, and management reporting.
-- **Process improvement:** Investigating issues, documenting workflows, and designing practical improvements.
-- **Business and technology collaboration:** Translating finance needs into reporting requirements and working with IT on solutions.
-- **Data analysis and controls:** Using Excel, Power Query, SQL, and Python to investigate data, reconcile results, and test reporting logic.
+- **Business Process Improvement:** Investigating workflow inefficiencies, documenting current-state processes, and identifying opportunities for standardization and improvement.
+- **Finance & Operations Expertise:** Understanding budgeting, revenue cycle processes, financial controls, and the operational activities that drive financial performance.
+- **Business Systems:** Experience with ERP and financial planning systems, reporting workflows, testing, and systems optimization.
+- **Cross-Functional Collaboration:** Working across finance, operations, billing, and technology to investigate problems and support solutions.
+- **Technical Fluency:** Using Excel, Power Query, Power BI, SQL, and Python to analyze information, validate processes, and support business decisions.
 
-## Featured Transformation Projects
+## Featured Business Transformation Projects
 
-### [Finance Reporting Transformation](https://github.com/ksjones21-bit/finance-reporting-transformation)
+### Finance Reporting Transformation
 
-An independent case study demonstrating a repeatable monthly reporting workflow using Microsoft’s financial sample data and a fictional budget.
+An independent case study demonstrating how financial reporting processes can be standardized, automated, validated, and improved.
 
-The solution consolidates 16 monthly files, validates 700 source records, produces actual-versus-budget reporting, and routes profit variances for review. Includes business requirements, an operating guide, and seven executed automated acceptance checks.
+The project explores data mapping, reconciliation controls, budget-to-actual reporting, business requirements, and user acceptance testing.
 
-**Demonstrates:** Reporting Automation · Data Mapping · Reconciliation Controls · Variance Analysis · Business Requirements · Acceptance Testing
+**Focus:** Reporting Process Improvement · Data Validation · Business Requirements · Process Standardization · UAT
 
-### [Purchase-to-Pay Process Analysis & Transformation](https://github.com/ksjones21-bit/purchase-to-pay-process-transformation)
+### Purchase-to-Pay Process Analysis & Transformation
 
-An independent case study using a public purchase-to-pay event log to investigate invoice receipt-to-clearing patterns and develop an exploratory logistic regression model.
+An independent case study examining procurement and payment workflows, identifying process exceptions, and designing opportunities for improvement.
 
-The analysis informs proposed business requirements, exception review workflows, UAT scenarios, and an implementation pilot. The documentation explains the model’s limitations and distinguishes longer clearing intervals from confirmed overdue payments.
+Includes process analysis, business requirements, exception review workflows, UAT scenarios, and implementation planning.
 
-**Demonstrates:** Statistical Modeling · Process Analysis · Business Requirements · UAT Planning · Implementation Planning
+**Focus:** Business Process Analysis · Workflow Improvement · Requirements Gathering · UAT · Implementation Planning
 
-## Additional Finance Projects
+## Additional Finance & Operations Projects
 
-### [Healthcare Revenue Cycle Analytics](https://github.com/ksjones21-bit/healthcare-revenue-cycle-analytics)
+### Healthcare Revenue Cycle Analytics
 
-Healthcare revenue cycle analysis supporting reconciliation and financial investigation.
+Exploration of healthcare revenue cycle processes, reconciliation challenges, and financial visibility.
 
-### [Healthcare Cost Drivers](https://github.com/ksjones21-bit/healthcare-cost-drivers)
+### Healthcare Cost Drivers
 
-Exploration of cost patterns and financial drivers to support operational decisions.
+Analysis of healthcare operating costs and the factors influencing financial performance.
 
 ## Systems & Tools
 
-**Financial systems:** Oracle NSPB / Essbase · NetSuite · SAP ERP · CareLogic  
-**Reporting and analysis:** Excel · Power Query · Power Pivot · Power BI · SQL · Python
+**Enterprise Systems:** Oracle NSPB / Essbase · NetSuite · SAP ERP · CareLogic
+
+**Business Analysis & Reporting:** Excel · Power Query · Power BI · SQL · Python
+
+**Process & Implementation Interests:** Process Mapping · Business Requirements · Workflow Optimization · UAT · Project Coordination · Continuous Improvement
 
 ## Professional Focus
 
-I’m pursuing opportunities in finance transformation, financial systems, and business analysis where I can connect Finance, operations, data, and technology to improve reporting and implement practical process changes.
+I'm pursuing opportunities in **Business Process Management, Finance Transformation, Business Systems Improvement, and Operational Excellence**.
+
+My goal is to help organizations connect people, processes, systems, and data to improve efficiency, strengthen decision-making, and implement sustainable operational improvements.
