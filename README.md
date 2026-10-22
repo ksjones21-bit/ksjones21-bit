@@ -18,6 +18,25 @@ I'm particularly interested in understanding how businesses work, identifying in
 
 ## Featured Business Transformation Projects
 
+### [Finance Systems Implementation & Transformation PMO](https://github.com/ksjones21-bit/Finance-systems-implementation-pmo)
+
+A simulated 60-day finance systems recovery engagement demonstrating how to assess implementation challenges, establish governance, coordinate cross-functional stakeholders, and improve reporting processes.
+
+Developed a portfolio of project management deliverables, including stakeholder discovery, gap assessment, project charter, phased implementation roadmap, RAID register, RACI matrix, and executive status reporting.
+
+**Focus:** Business Transformation · Project Management · ERP Governance · Stakeholder Management · Risk Management · Change Management
+
+### [Finance Reporting Transformation](https://github.com/ksjones21-bit/finance-reporting-transformation)
+
+An independent case study demonstrating how financial reporting processes can be standardized, validated, and improved through data mapping, reconciliation controls, reporting requirements, and user acceptance testing.
+
+**Focus:** Reporting Process Improvement · Data Validation · Business Requirements · UAT
+
+### Purchase-to-Pay Process Analysis & Transformation
+
+An independent case study combining purchase-to-pay workflow analysis, identification of process exceptions, and improvement opportunities.
+
+**Focus:** Business Process Analysis · Workflow Improvement · Requirements Gathering · UAT · Implementation Planning
 ### Finance Reporting Transformation
 
 An independent case study demonstrating how financial reporting processes can be standardized, automated, validated, and improved.
